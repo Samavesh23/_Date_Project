@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:SchedulePlan+CoreDataClass.h">
+   </FileRef>
+   <FileRef
+      location = "group:SchedulePlan+CoreDataClass.m">
+   </FileRef>
+   <FileRef
+      location = "group:SchedulePlan+CoreDataProperties.h">
+   </FileRef>
+   <FileRef
+      location = "group:SchedulePlan+CoreDataProperties.m">
+   </FileRef>
+   <FileRef
+      location = "group:Favorite+CoreDataClass.h">
+   </FileRef>
+   <FileRef
+      location = "group:Favorite+CoreDataClass.m">
+   </FileRef>
+   <FileRef
+      location = "group:Favorite+CoreDataProperties.h">
+   </FileRef>
+   <FileRef
+      location = "group:Favorite+CoreDataProperties.m">
+   </FileRef>
+   <FileRef
+      location = "group:Its a Date.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="11759" systemVersion="15G31" minimumToolsVersion="Automatic" sourceLanguage="Objective-C" userDefinedModelVersionIdentifier="">
+    <entity name="Favorite" representedClassName="Favorite" syncable="YES" codeGenerationType="class">
+        <attribute name="address" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="datename" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="day" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="descriptiontext" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="imageurl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isfavorite" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="locationlat" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="locationlong" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="openingclosing" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phonenumber" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="placeid" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rating" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="reviewcount" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="userid" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="websiteurl" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="SchedulePlan" representedClassName="SchedulePlan" syncable="YES" codeGenerationType="class">
+        <attribute name="addresss" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="datenames" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="days" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="descriptiontexts" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="imageurls" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isscheduleds" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="loclats" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="loclongs" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="openclosetime" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="phnnumbers" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="placeids" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="plandate" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="plandatetime" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="plantime" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="ratings" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="reviewcounts" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="userids" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="websiteurls" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Favorite" positionX="-63" positionY="-18" width="128" height="270"/>
+        <element name="SchedulePlan" positionX="-63" positionY="99" width="128" height="315"/>
+    </elements>
+</model>
